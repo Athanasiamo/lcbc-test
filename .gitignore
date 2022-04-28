@@ -6,7 +6,6 @@
 
 # ignore folder with potential data
 data/
-results/
 
 # ignore common non-text files that can inflate repo size
 figures/*png
